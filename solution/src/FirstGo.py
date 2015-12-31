@@ -1,6 +1,8 @@
 '''
 Solving the hackerrank Pangrams puzzle
 
+https://www.hackerrank.com/challenges/pangrams
+
 ------------------------------
 
 Problem Statement
